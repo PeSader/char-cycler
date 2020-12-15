@@ -38,3 +38,4 @@ let upper-tostr = upper-fromstr[1:] .= upper-fromstr[0]
 let tostr = lower-tostr . upper-fromstr
 
 nnoremap <silent> <CR> s<C-r>=tr(@', fromstr, tostr)<CR><Esc>
+
