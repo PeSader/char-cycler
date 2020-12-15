@@ -5,7 +5,11 @@ This project aims to ease and speed up the typing of accented and upper case let
 Below are the default cycles:
 
 > "c" key : [c, ç]
+
   "a" key : [a, á, à, ã, â]
+
   "e" key : [e, é, ê]
+
   "i" key : [i, í]
+
   "u" key : [u, ú]
