@@ -1,2 +1,0 @@
-keyboard==0.13.5
-typing==3.7.4.3
